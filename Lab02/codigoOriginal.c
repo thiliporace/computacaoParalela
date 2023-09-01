@@ -3,8 +3,7 @@
 int main()
 {
    int i, num, j;
-   printf ("Enter the number: ");
-   scanf ("%d", &num);
+   num = 10;
    j = num;
 
    for (i=1; j > 1; j = j -1) {
