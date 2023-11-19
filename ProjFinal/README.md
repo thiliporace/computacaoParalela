@@ -1,4 +1,4 @@
-**Projeto Final Computacao Paralela** <br> <br>
+# Projeto Final Computacao Paralela <br> <br>
 
 **Fazendo o calculo para a Serie de Taylor com N = 500** <br> <br>
 
