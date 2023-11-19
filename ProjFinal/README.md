@@ -1,4 +1,4 @@
-Projeto Final Computacao Paralela <br> <br>
+**Projeto Final Computacao Paralela** <br> <br>
 
 Tempo de execucao do codigo na versao serial: <br>
 
