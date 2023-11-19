@@ -14,6 +14,6 @@ Tempo de execucao do codigo versao paralela (para 2 threads): <br>
 
 *A versão paralela executou em 3.012s* <br> <br>
 
-Calculando o Speedup que foi obtido, usando Ts(Tempo Serial) / Tp(Tempo Paralelo) conseguimos <br>
+Calculando o Speedup que foi obtido para N = 500, usando Ts (tempo serial) / Tp (tempo paralelo) conseguimos <br>
 
 Speedup = Ts/Tp = 6.288/3.012 = 2.0876494 
