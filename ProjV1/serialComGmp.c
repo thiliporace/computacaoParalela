@@ -41,7 +41,7 @@ void save_to_file(mpf_t e, const char* filename) {
 
 int main() {
 	double start = omp_get_wtime();
-	int limit = 10;
+	int limit = 500;
 	mpf_t e;
 	mpf_init2(e, 16777216);
 	mpf_set_ui(e, 0);
