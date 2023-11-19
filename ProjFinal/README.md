@@ -1,6 +1,6 @@
 **Projeto Final Computacao Paralela** <br> <br>
 
-**Fazendo o calculo para a Serie de Taylor com N = 500** <br>
+**Fazendo o calculo para a Serie de Taylor com N = 500** <br> <br>
 
 Tempo de execucao do codigo na versao serial: <br>
 
