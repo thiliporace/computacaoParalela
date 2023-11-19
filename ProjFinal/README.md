@@ -1,5 +1,7 @@
 **Projeto Final Computacao Paralela** <br> <br>
 
+**Fazendo o calculo para a Serie de Taylor com N = 500**
+
 Tempo de execucao do codigo na versao serial: <br>
 
 ![image](https://github.com/thiliporace/computacaoParalela/assets/85422792/9b775451-e6fa-4096-90fb-bbe06e8646d6) <br>
