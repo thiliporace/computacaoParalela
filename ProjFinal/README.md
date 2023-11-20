@@ -27,7 +27,7 @@ Speedup = Ts/Tp = 6.288/3.012 = 2.0876494 <br><br>
 
 Calculando o Speedup obtido entre a versão paralela com 4 threads e a versão paralela com 2 threads para N = 500, usando T2 / T4 conseguimos <br>
 
-Speedup = T2/T4 = 3.012/3.203 = 0.9403684 <br><br><br>
+Speedup = T2/T4 = 3.012/3.203 = 0.9403684 <br><br><br><br>
 
 
 
