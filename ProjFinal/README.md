@@ -1,5 +1,20 @@
 ## Projeto Final Computacao Paralela <br> <br>
 
+
+### Tutorial para rodar o codigo e executar na linguagem C: <br> <br>
+
+1. Abrir uma instancia EC2 dentro da AWS de tamanho *medium* ou *large*, de preferencia com as maquinas especificas **t2.medium** ou **z1d.large** <br>
+2. Se conecte a instancia criada <br> 
+3. Instalar o GCC usando o comando *sudo dnf install gcc* <br> 
+4. Instalar a biblioteca GMP por meio do comando *sudo dnf install gmp-devel* <br> 
+5. Abrir o vi e colocar o codigo usando *vi file.c* (sem as aspas) <br>
+6. Compilar o codigo escrito em C por meio do comando *gcc file.c -o file -fopenmp -lm -lgmp* <br>
+7. Para calcular o tempo, usar o comando *time ./file*
+ <br><br><br><br><br>
+
+
+
+
 **Fazendo o calculo para a Serie de Taylor com N = 500** <br> <br>
 
 Tempo de execucao do codigo na versão serial: <br>
