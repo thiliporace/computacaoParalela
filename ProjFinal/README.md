@@ -78,7 +78,7 @@ Calculando o Speedup obtido entre a versão paralela com 4 threads e a versão p
 
 Speedup = T2/T4 = 47.465/56.904 = 0,834124138 <br><br>
 
-### Diagrama de decomposição de tarefas para N = 10000 iteracoes: <br>
+## Diagrama de decomposição de tarefas para N = 1000 iteracoes: <br>
 
 ![image](https://github.com/thiliporace/computacaoParalela/assets/85422792/1b4b45ea-9f90-46a2-8e97-3d40388ad44e)
 
