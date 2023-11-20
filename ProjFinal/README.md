@@ -15,7 +15,7 @@
 
 
 
-## Fazendo o calculo para a Serie de Taylor com N = 500 <br> <br>
+### Fazendo o calculo para a Serie de Taylor com N = 500 <br> <br>
 
 Tempo de execucao do codigo na versão serial: <br>
 
@@ -46,7 +46,7 @@ Speedup = T2/T4 = 3.012/3.203 = 0.9403684 <br><br><br><br>
 
 
 
-## Fazendo o calculo para a Serie de Taylor com N = 10000** <br> <br>
+### Fazendo o calculo para a Serie de Taylor com N = 10000** <br> <br>
 
 Tempo de execucao do codigo na versão serial: <br>
 
