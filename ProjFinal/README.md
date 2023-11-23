@@ -52,7 +52,9 @@ Tempo de execucao do codigo na versão serial: <br>
 
 ![image](https://github.com/thiliporace/computacaoParalela/assets/85422792/46a58c3c-77fd-43f0-92b1-acc118093d3e) <br>
 
-*A versão serial executou em 391.803s* <br> <br>
+*A versão serial executou em 391.803s* 
+*Obs: Neste caso o serial demorou muito tempo para rodar por conta da alocação de bits da função mpf_init2(), que quanto mais bits você aloca para as variáveis em questão, mais lento fica o programa. Como nós alocamos 67 milhões de bits para a versão paralela, também tivemos que alocar essa mesma quantidade de bits para a versão serial também, por isso essa enorme diferença de tempo.*
+<br> <br>
 
 
 Tempo de execucao do codigo versão paralela (para 2 threads): <br>
