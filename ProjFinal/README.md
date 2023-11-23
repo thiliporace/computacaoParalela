@@ -82,6 +82,8 @@ Speedup = T2/T4 = 47.465/56.904 = 0,834124138 <br><br>
 
 ## Valor de E <br>
 
+O valor de E obtido está localizado no arquivo "ValorParalelo.txt", aqui está uma prévia desse valor: <br>
+2.7182818284590452353602874713526624977572470936999595749669676277240766303535475945713821785251664274274 <br>
 Comparando ambos os arquivos com os valores de E, obtivemos a seguinte quantidade casas de precisão: <br>
 ![image](https://github.com/thiliporace/computacaoParalela/assets/93730460/ca76c9a9-008e-427f-babd-69cf59c0e065) <br> 
 Utilizamos o seguinte código para a comparação de arquivos: <br>
