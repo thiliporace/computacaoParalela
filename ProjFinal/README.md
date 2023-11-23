@@ -80,6 +80,14 @@ Calculando o Speedup obtido entre a versão paralela com 4 threads e a versão p
 
 Speedup = T2/T4 = 47.465/56.904 = 0,834124138 <br><br>
 
+## Valor de E <br>
+
+Comparando ambos os arquivos com os valores de E, obtivemos a seguinte quantidade casas de precisão: <br>
+![image](https://github.com/thiliporace/computacaoParalela/assets/93730460/ca76c9a9-008e-427f-babd-69cf59c0e065) <br> 
+Utilizamos o seguinte código para a comparação de arquivos: <br>
+![image](https://github.com/thiliporace/computacaoParalela/assets/93730460/9d0d8fb5-e79e-4591-903e-5ca21ae7ec8d) <br> <br>
+
+
 ## Diagrama de decomposição de tarefas para N = 1000 iterações: <br>
 
 ![image](https://github.com/thiliporace/computacaoParalela/assets/85422792/1b4b45ea-9f90-46a2-8e97-3d40388ad44e)
